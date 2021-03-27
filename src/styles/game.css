@@ -1,0 +1,37 @@
+.game-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    padding:2vw;
+}
+
+h1 {
+    padding:2vw;
+    font-size: 3vw;
+    color: black;
+    text-align: center;
+}
+
+img {
+    width: 60vh;
+    height: auto;
+    outline: 3px solid black;
+}
+
+.right {
+    margin-left: 2vw;
+    width: 40vw;
+    font-size: 1.3vw;
+    line-height: 1.3vw;
+}
+
+.right p{
+    font-size: 1.5vw;
+    line-height: 1.7vw;
+}
+
+h2 {
+    margin-top: 1.4vh;
+    font-size: 1.6vw;
+}

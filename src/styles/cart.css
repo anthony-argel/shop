@@ -1,0 +1,44 @@
+.item {
+    display: flex;
+    justify-content: center;
+    margin: 2vw;
+    padding: 1vw;
+    width: 80%;
+}
+
+.item img {
+    height: 20vw;
+    width: auto;
+}
+
+
+.right {
+    padding-top: 10%;
+}
+
+.right p {
+    font-size: 1.3vw;
+}
+
+hr {
+    width: 80%;
+}
+
+.total {
+    font-size: 1.3vw;
+    text-align: center;
+    margin-bottom: 3vh;
+}
+
+
+.page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.total button {
+    font-size: 1vw;
+    width: 13vw;
+}

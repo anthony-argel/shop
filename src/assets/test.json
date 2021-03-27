@@ -1,0 +1,30 @@
+{
+    "games": [
+      {
+        "id":0,
+    "name": "Stepdad Simulator",
+    "price": "39.99",
+    "description": "After spending 20 years working at a mall kiosk, you've meet a rich older woman who will accept you. Recently divorced, suffering from self-confidence issues, and desperately lonely, you've hit a lucky break. She's a rich pushover who never says no! Just one problem. She wants you help raise her kids. How will you play out your life with them? Featuring 7+ endings, will you be a piece of shit alcoholic stepfather who beats them? Will you strive to be the perfect role model for these kids?",
+    "status": "in progress",
+    "imgURL": "https://raw.githubusercontent.com/anthony-argel/shop/main/images/stepdad.png"
+      },
+      {
+        "id":1,
+        "name": "Mari Dreams of A Money-Free Life",
+        "price": "39.99",
+        "description": "These stupid sluts. How dare they talk about depression while living a life on the internet. All they do is dance like a monkey for these stupid men and all the money comes raining down on them. Sigh... I want to play video games for money too... Being an 'influencer', 'online entrepeneur', or whatever you want to call it takes no effort at all, right? Yeah, I'm sure of it. I'll show them how you really sell your soul for money and attention.",
+        "status": "in progress",
+        "imgURL": "https://raw.githubusercontent.com/anthony-argel/shop/main/images/mari.png"
+      },
+      {
+      "id": 2,
+      "name": "Tenshi",
+      "price": "39.99",
+      "description": "After a traumatic incident in high school, Izzy, now 20, has chosen the life of a shut-in. Play as the voice in Izzy's head as he wrestles with his life and thoughts. Learn more about his past and try to influence his future. With 100+ bad ends and only 1 good end, this game is gauranteed to frustrate you. Can you help Izzy out of his rut? Will you abandon him like he has abandoned himself?",
+      "status": "in progress",
+      "imgURL": "https://raw.githubusercontent.com/anthony-argel/shop/main/images/tenshi.png"
+      }
+    ]
+    
+  }
+  
